@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Kontrolery</string>
+    <string name="description"> Logo Firmy</string>
+    <string-array name="ListOfProducts">
+        <item>Controllers</item>
+        <item>Wires</item>
+        <item>Microphones</item>
+    </string-array>
+    <string-array name="controlls">
+        <item>LPK-25</item>
+        <item>MPK-225</item>
+    </string-array>
+    <string name="title_activity_kontrolery_choice">KontroleryChoice</string>
+</resources>
